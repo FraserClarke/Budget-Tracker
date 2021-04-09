@@ -1,9 +1,13 @@
 # Budget-Tracker
 
+!!!---- Styling for this application is still under develpoment ----!!!
+
 ![License](https://img.shields.io/badge/License-MIT-blue.svg)
 
 A Budget Tracker application to allow for offline access and functionality. Populated when brought back online.
 Deployed using Heroku and MongoDB Atlas.
+
+- [Deployed Heroku Link](https://obscure-river-26700.herokuapp.com/)
 
 > ## Description
 
@@ -19,8 +23,6 @@ When brought back online:
 
 - Offline entries should be added to tracker.
 
-* [Deployed Heroku Link](https://obscure-river-26700.herokuapp.com/)
-
 ## Table of contents
 
 - [Description](#Description)
@@ -32,9 +34,8 @@ When brought back online:
 
 ## Screenshots
 
-![Example screenshot]()
-![Example screenshot]()
-![Example screenshot]()
+![Example screenshot](https://raw.githubusercontent.com/FraserClarke/Budget-Tracker/main/public/img/budget1.PNG)
+![Example screenshot](https://raw.githubusercontent.com/FraserClarke/Budget-Tracker/main/public/img/budget2.PNG)
 
 ## General info
 
@@ -53,8 +54,6 @@ Giving users a fast and easy way to track their money is important, but allowing
 - GIVEN a user is on Budget App without an internet connection
 - WHEN the user inputs a withdrawal or deposit
 - THEN that will be shown on the page, and added to their transaction history \* when their connection is back online.
-
-
 
 ## Questions
 
