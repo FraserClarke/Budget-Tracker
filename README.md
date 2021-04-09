@@ -19,7 +19,7 @@ When brought back online:
 
 - Offline entries should be added to tracker.
 
-* [Deployed Heroku Link]()
+* [Deployed Heroku Link](https://obscure-river-26700.herokuapp.com/)
 
 ## Table of contents
 
@@ -30,11 +30,11 @@ When brought back online:
 - [Questions](#Questions)
 - [Credits](#Credits)
 
-## Questions
+## Screenshots
 
-- GitHub username: FraserClarke
-- [Github Link](https://github.com/FraserClarke)
-- Email Address: clarkefraser1@gmail.com
+![Example screenshot]()
+![Example screenshot]()
+![Example screenshot]()
 
 ## General info
 
@@ -54,17 +54,19 @@ Giving users a fast and easy way to track their money is important, but allowing
 - WHEN the user inputs a withdrawal or deposit
 - THEN that will be shown on the page, and added to their transaction history \* when their connection is back online.
 
-## Screenshots
 
-![Example screenshot]()
-![Example screenshot]()
-![Example screenshot]()
+
+## Questions
+
+- GitHub username: FraserClarke
+- [Github Link](https://github.com/FraserClarke)
+- Email Address: clarkefraser1@gmail.com
 
 ## Links
 
 - [Github Repository](https://github.com/FraserClarke/Budget-Tracker)
 
-- [Deployed Heroku Link]()
+- [Deployed Heroku Link](https://obscure-river-26700.herokuapp.com/)
 
 ## Credits
 
