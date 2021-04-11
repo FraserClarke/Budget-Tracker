@@ -36,6 +36,7 @@ When brought back online:
 
 ![Example screenshot](https://raw.githubusercontent.com/FraserClarke/Budget-Tracker/main/public/img/budget1.PNG)
 ![Example screenshot](https://raw.githubusercontent.com/FraserClarke/Budget-Tracker/main/public/img/budget2.PNG)
+![Example screenshot](https://raw.githubusercontent.com/FraserClarke/Budget-Tracker/main/public/img/budget3.PNG)
 
 ## General info
 
