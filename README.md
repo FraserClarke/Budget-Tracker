@@ -35,8 +35,7 @@ When brought back online:
 ## Screenshots
 
 ![Example screenshot](https://raw.githubusercontent.com/FraserClarke/Budget-Tracker/main/public/img/budget1.PNG)
-![Example screenshot](https://raw.githubusercontent.com/FraserClarke/Budget-Tracker/main/public/img/budget2.PNG)
-![Example screenshot](https://raw.githubusercontent.com/FraserClarke/Budget-Tracker/main/public/img/budget3.PNG)
+![Example screenshot](https://raw.githubusercontent.com/FraserClarke/Budget-Tracker/main/public/img/budgetGif.GIF)
 
 ## General info
 
@@ -71,3 +70,4 @@ Giving users a fast and easy way to track their money is important, but allowing
 ## Credits
 
 - Created by: [Fraser Clarke](https://github.com/FraserClarke)
+- Image Source: [Click Here](https://sunstatestrata.com.au/wp-content/uploads/2017/06/Budget2-1080x675.jpg)

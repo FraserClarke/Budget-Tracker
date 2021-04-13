@@ -1,18 +1,51 @@
-body {
-  font-size: 120%;
-  font-family: Arial;
+html {
+  font-family: "Orelega One", cursive;
 }
 
-button, input {
+body {
+  font-family: "Orelega One", cursive;
+  font-size: 120%;
+  /* font-family: Arial; */
+  /* background-image: url("img/budgetbackground.jpg");
+  opacity: 0.5; */
+  background: linear-gradient(
+      rgba(255, 255, 255, 0.8),
+      rgba(255, 255, 255, 0.8)
+    ),
+    url("img/budgetbackground.jpg");
+}
+/* html::after {
+  content: "";
+  background-image: url("img/budgetbackground.jpg");
+  opacity: 0.5;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  position: absolute;
+  z-index: -1;
+  height: auto;
+} */
+button {
+  /* background: rgb(93, 93, 238); */
+  background: rgb(132, 88, 212);
+  color: white;
+  border-radius: 5px;
+}
+
+button,
+input {
   font-size: 100%;
-  font-family: Arial;
+  /* font-family: Arial; */
+  font-family: "Orelega One", cursive;
 }
 
 table {
   width: 100%;
 }
 
-td, th {
+td,
+th {
   border: 1px solid #dddddd;
   text-align: left;
   padding: 8px;
