@@ -1,7 +1,5 @@
 # Budget-Tracker
 
-!!!---- Styling for this application is still under develpoment ----!!!
-
 ![License](https://img.shields.io/badge/License-MIT-blue.svg)
 
 A Budget Tracker application to allow for offline access and functionality. Populated when brought back online.
@@ -36,6 +34,7 @@ When brought back online:
 
 ![Example screenshot](https://raw.githubusercontent.com/FraserClarke/Budget-Tracker/main/public/img/budget1.PNG)
 ![Example Demo Gif](public/img/budgetGif.gif)
+
 <!-- ![Example Demo Gif](https://github.com/FraserClarke/Budget-Tracker/blob/main/public/img/budgetGif.gif?raw=true) -->
 
 ## General info
