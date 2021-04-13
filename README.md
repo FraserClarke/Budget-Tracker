@@ -35,7 +35,8 @@ When brought back online:
 ## Screenshots
 
 ![Example screenshot](https://raw.githubusercontent.com/FraserClarke/Budget-Tracker/main/public/img/budget1.PNG)
-![Example screenshot](https://raw.githubusercontent.com/FraserClarke/Budget-Tracker/main/public/img/budgetGif.GIF)
+![Example Demo Gif](public/img/budgetGif.gif)
+![Example Demo Gif](https://github.com/FraserClarke/Budget-Tracker/blob/main/public/img/budgetGif.gif?raw=true)
 
 ## General info
 
